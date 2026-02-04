@@ -306,18 +306,4 @@ Antes de dizer “ok”:
   
 
 ---
-
-## Epílogo — O seu padrão editorial (e por que isso é portfólio forte)
-
-Você criou um workflow que:
-
-- reduz erro humano
-  
-- facilita onboarding
-  
-- garante reprodutibilidade
-  
-- e deixa evidências de engenharia (lint/format/pre-commit/lockfile)
-  
-
-E isso é exatamente o tipo de “sistema de trabalho” que recrutador técnico respeita.
+---
