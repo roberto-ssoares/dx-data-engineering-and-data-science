@@ -4,9 +4,9 @@
 
 ## 🧠 Sistema de Trabalho Profissional
 
-## PowerShell 7 • Python 3.11/3.12 • uv • VS Code
+### PowerShell 7 • Python 3.11/3.12 • uv • VS Code
 
-### Data Science & Data Engineering
+#### Data Science & Data Engineering
 
 > **Resumo curto**  
 > Este repositório documenta um **sistema de trabalho profissional** para projetos Python em Data Science e Data Engineering, focado em **previsibilidade**, **isolamento de ambientes**, **governança de dependências** e **onboarding rápido**.
@@ -262,5 +262,6 @@ Se quiser, próximo passo possível:
 - ou adaptar o texto para **post técnico no LinkedIn**
 
 É só me dizer.
+
 
 
