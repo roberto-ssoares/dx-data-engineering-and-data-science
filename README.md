@@ -6,7 +6,7 @@
 
 ### PowerShell 7 • Python 3.11/3.12 • uv • VS Code
 
-#### Data Science & Data Engineering
+### Data Science & Data Engineering
 
 > **Resumo curto**  
 > Este repositório documenta um **sistema de trabalho profissional** para projetos Python em Data Science e Data Engineering, focado em **previsibilidade**, **isolamento de ambientes**, **governança de dependências** e **onboarding rápido**.
@@ -15,6 +15,8 @@ Não é um tutorial básico.
 É a documentação de **como eu trabalho**.
 
 ---
+
+
 
 ## 🎯 Objetivos do Setup
 
@@ -36,6 +38,8 @@ Este setup existe para resolver problemas reais do dia a dia:
 
 ---
 
+
+
 ## 🧩 Stack Recomendada
 
 - **PowerShell 7**
@@ -47,6 +51,8 @@ Este setup existe para resolver problemas reais do dia a dia:
 - **VS Code**
 
 ---
+
+
 
 ## 🏗️ Arquitetura Mental
 
@@ -64,6 +70,8 @@ Separação clara de responsabilidades:
 
 ---
 
+
+
 ## 🔁 Rotina Diária Ideal
 
 ### Início do dia
@@ -74,6 +82,8 @@ cd D:\_DS-Projects\meu-projeto
 workon
 python --version
 ```
+
+
 
 ### Durante o trabalho
 
@@ -94,6 +104,8 @@ leave
 ✔ Mantém o terminal previsível
 
 ---
+
+
 
 ## 🚀 Criando um Projeto do Zero
 
@@ -132,6 +144,8 @@ mkdir data\raw data\processed
 
 ---
 
+
+
 ## 📏 Governança Técnica (Não Negociável)
 
 - Um projeto = uma `.venv`
@@ -153,6 +167,8 @@ mkdir data\raw data\processed
 - Padrão profissional
 
 ---
+
+
 
 ## 🩺 Diagnóstico do Ambiente
 
@@ -176,6 +192,8 @@ Verifique:
 
 ---
 
+
+
 ## 👥 Onboarding Rápido (30–60 minutos)
 
 ```powershell
@@ -186,6 +204,8 @@ workon
 python -m src.main
 doctor
 ```
+
+
 
 ### Como trabalhamos aqui
 
@@ -198,6 +218,8 @@ doctor
 - Sempre encerrar com `leave`
 
 ---
+
+
 
 ## ✅ Checklists
 
@@ -225,6 +247,8 @@ doctor
 
 ---
 
+
+
 ## 🧠 Por que isso importa
 
 Este repositório não documenta scripts.  
@@ -244,9 +268,3 @@ você está **projetando sistemas de trabalho**.
 ---
 
 ---
-
-
-
-
-
-
