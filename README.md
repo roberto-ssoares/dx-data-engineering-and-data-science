@@ -262,9 +262,9 @@ Se você:
 
 - garante previsibilidade
 
-então você não está apenas escrevendo código —  
-você está **projetando sistemas de trabalho**.
+então você não está apenas escrevendo código — você está **projetando sistemas de trabalho**.
 
 ---
 
 ---
+
