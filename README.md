@@ -17,12 +17,12 @@ Não é um tutorial básico.
 ---
 
 
-```md
+
 ## 📄 Documentação completa
 - 📘 Ebook (Markdown): `docs/ebook.md`
 - 📕 Ebook (PDF): `docs/ebook.pdf`
 - 🧰 PowerShell Profile: `powershell-profile/`
-```
+
 ---
 
 
@@ -302,6 +302,7 @@ Faça **os 3 ajustes acima** (tabela + fenced code blocks + links docs). Isso le
 
 Se você colar aqui o conteúdo atual do `README.md` (ou só a parte “Arquitetura + Rotina”), eu já te devolvo **o README revisado pronto para colar** (sem mudar seu conteúdo, só melhorando a apresentação).
 ::contentReference[oaicite:7]{index=7}
+
 
 
 
