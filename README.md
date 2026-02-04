@@ -1,5 +1,7 @@
 # **Developer Experience (DX) aplicada a Data Engineering & Data Science**
 
+> Sistema de trabalho focado em Developer Experience (DX) para Data Engineering e Data Science, com ambientes previsíveis, reprodutibilidade, onboarding rápido e redução de erro operacional.
+
 ## 🧠 Sistema de Trabalho Profissional
 
 ## PowerShell 7 • Python 3.11/3.12 • uv • VS Code
@@ -260,4 +262,5 @@ Se quiser, próximo passo possível:
 - ou adaptar o texto para **post técnico no LinkedIn**
 
 É só me dizer.
+
 
