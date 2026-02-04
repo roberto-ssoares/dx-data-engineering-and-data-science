@@ -243,13 +243,8 @@ você está **projetando sistemas de trabalho**.
 
 ---
 
-## 📄 Versões disponíveis
-
-- 📘 **Ebook completo (PDF)** — uso pessoal e onboarding
-
-- 📄 **Este README** — versão pública e escaneável
-
 ---
+
 
 
 
